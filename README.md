@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     
-      ![Ashop](https://imgur.com/moNJcVf)
+      ![banner](https://imgur.com/moNJcVf.png)
     
   <br />
 
@@ -102,8 +102,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## Usage
 1. Use the search bar to filter cars by manufacturer and brand.
-   ![Ashop](https://imgur.com/XtEQmsA)
+   ![search](https://imgur.com/XtEQmsA.png)
+   
 2. Select the fuel type and year from the dropdown menus to refine your search.
-   ![Ashop](https://imgur.com/nNNQuQh)
+   ![fuel](https://imgur.com/nNNQuQh.png)
 
 _Reference Javascript Mastery Tutorial_
