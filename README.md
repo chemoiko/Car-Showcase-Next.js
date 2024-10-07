@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/pUNSHPyVryU?feature=shared" target="_blank">
+    
       ![Ashop](https://imgur.com/moNJcVf)
-    </a>
+    
   <br />
 
   <div>
