@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/pUNSHPyVryU?feature=shared" target="_blank">
-      <img src="https://imgur.com/moNJcVf" alt="Project Banner">
+      ![Ashop](https://imgur.com/moNJcVf)
     </a>
   <br />
 
@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
-cd project_next13_car_showcase
+cd project_next13_car_showcase-nextjs
 ```
 
 **Installation**
@@ -98,15 +98,12 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
 
-<details>
-<summary><code>constants.ts</code></summary>
 
 ## Usage
 1. Use the search bar to filter cars by manufacturer and brand.
-   <img src="https://imgur.com/XtEQmsA" alt="search">
+   ![Ashop](https://imgur.com/XtEQmsA)
 2. Select the fuel type and year from the dropdown menus to refine your search.
-    <img src="https://imgur.com/nNNQuQh" alt="Project Banner">
+   ![Ashop](https://imgur.com/nNNQuQh)
 
 _Reference Javascript Mastery Tutorial_
