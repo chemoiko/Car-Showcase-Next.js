@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">A Car Showcase Website</h3>
 
  
 </div>
@@ -75,8 +74,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_next13_car_showcase.git
-cd project_next13_car_showcase-nextjs
+git clone https://github.com/chemoiko/Car-Showcase-Next.js.git
+cd Car-Showcase-Next.js
 ```
 
 **Installation**
