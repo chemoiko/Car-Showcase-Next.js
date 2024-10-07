@@ -1,5 +1,5 @@
 # Car ShowCase Website  
-  -Link to website   <a>https://car-showcase-next-js-iota.vercel.app/</a>
+  - Link to website   <a>https://car-showcase-next-js-iota.vercel.app/</a>
 
 ![banner](https://imgur.com/moNJcVf.png) 
 <div align="center">
