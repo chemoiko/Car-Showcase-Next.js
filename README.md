@@ -1,9 +1,10 @@
+# Car ShowCase Website
+![banner](https://imgur.com/moNJcVf.png)
+
 <div align="center">
   <br />
     
-      ![banner](https://imgur.com/moNJcVf.png)
-    
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
@@ -29,11 +30,11 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Developed with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
+Welcome to the Car Showcase project, a dynamic and responsive web application developed using Next.js, TypeScript, and Tailwind CSS. This platform is designed to provide users with an engaging experience while exploring a wide variety of cars from around the world. Leveraging Next.js's powerful server-side rendering capabilities, the Car Showcase offers fast load times, optimized performance, and a smooth browsing experience.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+The website features a visually appealing interface that showcases detailed information about different car models, manufacturers, and specifications. Users can easily search and filter cars based on various criteria, including model, manufacturer, year, and fuel type, making it easier to find their ideal vehicle.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
